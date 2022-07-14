@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://pa1.narvii.com/7681/14af2d07505e72a0993c7737d8bb79c2972a8f7er1-480-360_hq.gif)
 
 ![RebeccaHa9511's github stats](https://github-readme-stats.vercel.app/api?username=RebeccaHa9511&show_icons=true)
 [![RebeccaHa9511's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RebeccaHa9511&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/RebeccaHa9511)
