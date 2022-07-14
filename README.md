@@ -1,22 +1,15 @@
 ![](https://pa1.narvii.com/7681/14af2d07505e72a0993c7737d8bb79c2972a8f7er1-480-360_hq.gif)
 
+
+
+ ✨ How to reach me: 
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=Pink">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=Orange">
+
+--
+
+
 ![RebeccaHa9511's github stats](https://github-readme-stats.vercel.app/api?username=RebeccaHa9511&show_icons=true)
 [![RebeccaHa9511's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RebeccaHa9511&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/RebeccaHa9511)
-
-<!--
-**RebeccaHa9511/RebeccaHa9511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
