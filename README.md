@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![RebeccaHa9511's github stats](https://github-readme-stats.vercel.app/api?username=RebeccaHa9511&show_icons=true)
+[![RebeccaHa9511's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RebeccaHa9511&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/RebeccaHa9511)
+
 <!--
 **RebeccaHa9511/RebeccaHa9511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
