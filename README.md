@@ -4,15 +4,22 @@
 
  ✨ How to reach me: 
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=pink">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=pink">  ios_becca95
+email : car2002ha@naver.com
 
-✨ Blog
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+✨ Blog:
 
-✨ Tech Stack
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=orange">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white">   https://medium.com/@rebeccaha1128
+
+✨ Tech Stack:
+
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=orange"> 
+
+
 
 --
+
+
 
 
 ![RebeccaHa9511's github stats](https://github-readme-stats.vercel.app/api?username=RebeccaHa9511&show_icons=true)
