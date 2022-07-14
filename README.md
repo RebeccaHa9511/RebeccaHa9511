@@ -4,8 +4,10 @@
 
  ✨ How to reach me: 
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=pink">  ios_becca95
-email : car2002ha@naver.com
+- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=pink">  ios_becca95
+
+
+- email : car2002ha@naver.com
 
 ✨ Blog:
 
