@@ -9,6 +9,7 @@
  <div align=center><h1> Profile Info </h1></div>
 👩🏻‍💻 iOS App Developer 
  
+ 
 🥼 Registered Nurse in NewYork & South Korea
 
 ⚡  MBTI : ENTJ
