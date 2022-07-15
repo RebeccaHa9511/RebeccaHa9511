@@ -1,12 +1,14 @@
 <div align=center>
 
 ![](https://pa1.narvii.com/7681/14af2d07505e72a0993c7737d8bb79c2972a8f7er1-480-360_hq.gif)
+ 
 ![followers](https://img.shields.io/github/followers/RebeccaHa9511?style=social)
  
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRebeccaHa9511&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
  
 👩🏻‍💻 iOS App Developer 
+ 
 🥼 Registered Nurse in NewYork & South Korea
 
 ⚡  MBTI : ENTJ
