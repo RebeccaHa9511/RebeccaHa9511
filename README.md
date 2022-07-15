@@ -17,6 +17,9 @@
 🌱 Studied In : Rising Camp , Allen School
  </a>
  </a>
+ </a>
+ </a>
+ </a>
 
  <div align=center><h1> 🌸 How to reach me 🌸 </h1></div> 
 
@@ -26,13 +29,18 @@
 - <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=green"> : car2002ha@naver.com
  
  
- 
+ </a>
+ </a>
+ </a>
+ </a>
  <div align=center><h1> 🌙 Blog 🌙  </h1></div> 
 
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white">  :  https://medium.com/@rebeccaha1128
  
- 
- 
+</a>
+</a>
+</a>
+</a>
  
  <div align=center><h1> 🌴 Tech Stack 🌴 </h1></div> 
 
@@ -41,7 +49,9 @@
 
 
 --
-
+</a>
+</a>
+</a>
 
 
 
