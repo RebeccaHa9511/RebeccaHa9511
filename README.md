@@ -11,7 +11,7 @@
 
 ✨ Blog:
 
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white">   https://medium.com/@rebeccaha1128
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white">  :  https://medium.com/@rebeccaha1128
 
 ✨ Tech Stack:
 
