@@ -32,9 +32,9 @@
 
  <div align=center><h1> 🌙 Blog 🌙  </h1></div>   
 
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white">  :  https://medium.com/@rebeccaha1128
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white">  :  https://medium.com/@rebeccaha1128  
  
-
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> : https://sedate-limpet-f7d.notion.site/GIT-11d824ad08b3498593ecd9f6b704de58
  
  
  
