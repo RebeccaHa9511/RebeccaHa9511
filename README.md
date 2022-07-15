@@ -15,6 +15,8 @@
 ⚡  MBTI : ENTJ
 
 🌱 Studied In : Rising Camp , Allen School
+ </a>
+ </a>
 
  <div align=center><h1> 🌸 How to reach me 🌸 </h1></div> 
 
