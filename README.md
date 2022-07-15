@@ -42,7 +42,7 @@
  
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">. 
  
- : https://sedate-limpet-f7d.notion.site/GIT-11d824ad08b3498593ecd9f6b704de58
+
  
  
  
