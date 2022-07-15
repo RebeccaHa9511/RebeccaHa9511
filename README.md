@@ -2,6 +2,7 @@
 
 👩🏻‍💻 iOS App Developer  
 🥼 Registered Nurse in NewYork & South Korea
+
 ⚡  MBTI : ENTJ
 
  🌸 How to reach me: 
