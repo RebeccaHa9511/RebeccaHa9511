@@ -41,6 +41,8 @@
  :  https://medium.com/@rebeccaha1128    
  
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">. 
+
+https://rebeccaha9511.tistory.com/ T Story
  
 
  
@@ -51,6 +53,7 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=orange"> 
 
 
+AWS SAA - C02 (Solution Architect)
 
 --
 
