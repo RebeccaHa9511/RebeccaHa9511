@@ -11,10 +11,7 @@
  
 👩🏻‍💻 iOS App Developer   
  
- 
 🥼 Registered Nurse in NewYork & South Korea
-
-⚡  MBTI : ENTJ
 
 🌱 Studied In : Rising Camp , Allen School
 
@@ -41,8 +38,10 @@
  :  https://medium.com/@rebeccaha1128    
  
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">. 
+ 
+ T Story
 
-https://rebeccaha9511.tistory.com/ T Story
+https://rebeccaha9511.tistory.com/ 
  
 
  
@@ -50,7 +49,7 @@ https://rebeccaha9511.tistory.com/ T Story
  
  <div align=center><h1> 🌴 Tech Stack 🌴 </h1></div> 
 
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=orange"> 
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=orange"> Swift
 
 
 AWS SAA - C02 (Solution Architect)
