@@ -52,7 +52,8 @@ https://rebeccaha9511.tistory.com/
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=orange"> Swift
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1f7ce42d-dee4-4185-8911-e79a93d3305c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![image](https://user-images.githubusercontent.com/93848038/185304534-3a07e5ae-e8c0-4a89-a6f9-ce8f2fbc3ebd.png)
+
 AWS SAA - C02 (Solution Architect)
 
 --
