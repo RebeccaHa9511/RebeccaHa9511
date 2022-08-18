@@ -28,7 +28,7 @@
  
  
 
- <div align=center><h1> 🌙 Blog 🌙  </h1></div>   
+ <div align=center><h1>  Blog  </h1></div>   
 
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white">   
  
@@ -44,7 +44,7 @@ https://rebeccaha9511.tistory.com/
  
  
  
- <div align=center><h1> 🌴 Tech Stack 🌴 </h1></div> 
+ <div align=center><h1>  Tech Stack  </h1></div> 
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=orange"> Swift
 
