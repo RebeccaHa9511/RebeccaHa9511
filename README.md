@@ -16,9 +16,6 @@
 🌱 Studied In : Rising Camp , Allen School
 
  
- 
-
- <div align=center><h1> 🌸 How to reach me 🌸 </h1></div>   
 
 - <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=pink">
  
